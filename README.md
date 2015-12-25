@@ -11,6 +11,7 @@ This workflow will create 2 dirs in your home dir:
 ### Usage
 
 After installing, two keywords can be used:
+
 1. `h+space` : List all hosts files in *~/.alfred/hosts/* dir for you to switch.
 2. `hf` Open *~/.alfred/hosts/* dir in mac finder.
 
